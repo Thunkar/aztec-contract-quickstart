@@ -7,7 +7,7 @@ docker tag aztecprotocol/aztec:3.0.0-nightly.20251015 aztecprotocol/aztec:latest
 ```
 
 NOTE: Make sure the versions of aztec libs on the `Nargo.toml` files matches the one pulled by the nightly tag!
-NOTE (to self): Check how to pull specific nightlies, go an bother whomever needs to implement it if there's no way to do it. Pulling the docker images directly is hella hacky!
+NOTE (to self): Check how to pull specific nightlies, go and bother whomever needs to implement it if there's no way to do it. Pulling the docker images directly is hella hacky!
 
 # Compilation
 
